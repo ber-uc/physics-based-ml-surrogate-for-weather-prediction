@@ -1,1 +1,1 @@
-# physics-based-ml-surrogate-for-weather-prediction
+# Physics Based ML-surrogate for Weather Prediction
